@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "FalconCraft Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://falconcraft.it"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "#"
+supportLink = "#"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU FALCONCRAFT LAUNCHER"
+welcomeDescription = "Sei a pochi passi da FalconCraft Launcher"
+welcomeDescCTA = "Copyright © 2025 FalconCraft Launcher"
