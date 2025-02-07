@@ -3022,9 +3022,9 @@ input:checked + .toggleSwitchSlider:before {
     right: 95px;
     text-align: right;
     -webkit-user-select: initial;
-    border-style: hidden;
-    border-color: #ffffffa1;
-    border-radius: 20px;
+    border-color: #ffffffa9;
+    border-style: solid;
+    border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;

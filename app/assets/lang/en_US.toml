@@ -271,13 +271,13 @@ stableReleaseTitle = "Stable Release"
 releaseNotesFailed = "Failed to load release notes."
 
 [js.settings.updates]
-newReleaseTitle = "New Release Available"
-newPreReleaseTitle = "New Pre-release Available"
-downloadingButton = "Downloading.."
-downloadButton = 'Download from GitHub<span style="font-size: 10px;color: gray;text-shadow: none !important;">Close the launcher and run the dmg to update.</span>'
-latestVersionTitle = "You Are Running the Latest Version"
-checkForUpdatesButton = "Check for Updates"
-checkingForUpdatesButton = "Checking for Updates.."
+newReleaseTitle = "Nuova versione disponibile"
+newPreReleaseTitle = "Nuova pre-release disponibile"
+downloadingButton = "Download in corso.."
+downloadButton = 'Scarica da GitHub<span style="font-size: 10px;color: gray;text-shadow: none !important;">Chiudi il launcher ed esegui il dmg per aggiornare.</span>'
+latestVersionTitle = "Stai utilizzando la versione più recente"
+checkForUpdatesButton = "Controlla gli aggiornamenti"
+checkingForUpdatesButton = "Controllo degli aggiornamenti.."
 
 [js.settings.msftLogin]
 errorTitle = "Microsoft Login Failed"
