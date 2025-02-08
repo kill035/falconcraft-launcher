@@ -297,9 +297,9 @@ loginButton = "Login"
 selectAnotherAccountButton = "Select Another Account"
 
 [js.uicore.autoUpdate]
-checkingForUpdateButton = "Checking for Updates..."
-installNowButton = "Install Now"
-checkForUpdatesButton = "Check for Updates"
+checkingForUpdateButton = "Controllo degli aggiornamenti..."
+installNowButton = "Installa ora"
+checkForUpdatesButton = "Controlla gli aggiornamenti"
 
 [js.auth.microsoft.error]
 noProfileTitle = "Error During Login:<br>Profile Not Set Up"
