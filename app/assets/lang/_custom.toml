@@ -4,11 +4,11 @@
 title = "FalconCraft Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://falconcraft.it"
+mediaGitHubURL = "https://launcher.falconcraft.it"
 mediaTwitterURL = "#"
-mediaInstagramURL = "#"
+mediaInstagramURL = "https://www.instagram.com/falconcraft.launcher/"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "#"
+mediaDiscordURL = "https://discord.gg/3bv4tHRzgd"
 
 [ejs.settings]
 sourceGithubLink = "#"
